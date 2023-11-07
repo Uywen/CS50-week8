@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.About-us-heading{
+    text-align: center;
+    color: cadetblue;
+    font-size: 3rem;
+    text-decoration: underline;
+    margin-top: 2rem;
+}
+
+.About-us-paragraph-div{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border-style: dotted;
+    border-color: cadetblue;
+    text-align: center;
+}
+
+.About-us-paragraph{
+    text-align: center;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    margin-top: 6rem;
+    font-weight: bold;
+}
+
+.Winky-Dog-Image{
+    margin-top: 5rem;
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   height: 20rem;
+   border-radius: 2rem;
+   width: 48%;
+}

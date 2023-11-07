@@ -1,0 +1,47 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.Signup-heading{
+    margin-top: 3rem;
+    text-align: center;
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+input{
+    border-radius: 6px;
+    border: none;  
+}
+
+
+
+.Signup-button{
+    text-align: center;
+    margin-top: 4rem;
+}
+
+button{
+    background-color: lightgreen;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 1px solid lightgreen;
+}
+
+.Form-background{
+ width: 300px;
+ box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
+ background-color: cadetblue;
+ border-radius: 2rem;
+ padding: 20px;
+ margin: 8% auto 0;
+ text-align: center;
+}
+
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    outline: none;
+}
